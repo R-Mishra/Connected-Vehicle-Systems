@@ -4,6 +4,7 @@ A connected vehicle paradigm involves communication among the vehicles and the r
 
 ![A connected Vehicle](https://www.its.dot.gov/cv_basics/images/cv_basics_car_viewLarger.png)
 
+Figure 1. A connected vehicle with its components that allow it to communicate with the connected vehicle infrastructure
 
 The advances in the connected vehicle systems (CVS) support the wireless communication between vehicles. The data delivered via this type of technology includes positional and movement information of surrounding connected vehicles. The vehicle-to-vehicle communications enables a vehicle to detect and evaluate the potential hazard on the road, generate warnings before potentially life-threatening scenarios take place, and assist the driver in taking preventive actions in advance. 
 
